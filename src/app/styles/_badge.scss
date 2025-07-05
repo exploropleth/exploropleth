@@ -1,0 +1,32 @@
+::ng-deep .badge.badge-outlined {
+  background-color: transparent !important;
+  border: 1px solid transparent;
+}
+::ng-deep .badge.badge-outlined.badge-default {
+  border-color: #B0BEC5;
+  color: #B0BEC5;
+}
+::ng-deep .badge.badge-outlined.badge-primary {
+  border-color: #2196F3;
+  color: #2196F3;
+}
+::ng-deep .badge.badge-outlined.badge-secondary {
+  border-color: #323a45;
+  color: #323a45;
+}
+::ng-deep .badge.badge-outlined.badge-success {
+  border-color: #64DD17;
+  color: #64DD17;
+}
+::ng-deep .badge.badge-outlined.badge-warning {
+  border-color: #e67e22;
+  color: #e67e22;
+}
+::ng-deep .badge.badge-outlined.badge-info {
+  border-color: #29B6F6;
+  color: #29B6F6;
+}
+::ng-deep .badge.badge-outlined.badge-danger {
+  border-color: #ef1c1c;
+  color: #ef1c1c;
+}

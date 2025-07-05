@@ -1,0 +1,21 @@
+::ng-deep .table-extra-condensed>thead>tr>th,
+::ng-deep .table-extra-condensed>tbody>tr>th,
+::ng-deep .table-extra-condensed>tfoot>tr>th,
+::ng-deep .table-extra-condensed>thead>tr>td,
+::ng-deep .table-extra-condensed>tbody>tr>td,
+::ng-deep .table-extra-condensed>tfoot>tr>td {
+  padding: 2px !important;
+}
+
+::ng-deep .table-sm>thead>tr>th,
+::ng-deep .table-sm>tbody>tr>th,
+::ng-deep .table-sm>tfoot>tr>th,
+::ng-deep .table-sm>thead>tr>td,
+::ng-deep .table-sm>tbody>tr>td,
+::ng-deep .table-sm>tfoot>tr>td {
+  font-size: 1.05rem !important;
+}
+
+::ng-deep .p-datatable-xs td{
+  padding: 0.3rem;
+} 

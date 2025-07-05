@@ -1,0 +1,64 @@
+{
+  "name": "exploropleth",
+  "version": "1.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "postinstall": "ng build --aot --configuration production"
+  },
+  "dependencies": {
+    "@angular/animations": "^17.3.12",
+    "@angular/common": "^17.3.12",
+    "@angular/compiler": "^17.3.12",
+    "@angular/core": "^17.3.12",
+    "@angular/forms": "^17.3.12",
+    "@angular/localize": "^17.3.12",
+    "@angular/platform-browser": "^17.3.12",
+    "@angular/platform-browser-dynamic": "^17.3.12",
+    "@angular/router": "^17.3.12",
+    "@ctrl/ngx-codemirror": "^5.1.1",
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "@fortawesome/fontawesome-free-webfonts": "^1.0.9",
+    "@types/d3": "^6.7.0",
+    "@types/topojson-client": "^3.1.1",
+    "binguru": "^1.0.0",
+    "bootstrap": "^4.6.1",
+    "changedpi": "^1.0.4",
+    "codemirror": "^5.65.12",
+    "core-js": "^2.5.4",
+    "d3": "^6.7.0",
+    "html2canvas": "^1.4.1",
+    "jquery": "^3.5.1",
+    "ng2-dragula": "^5.1.0",
+    "popper.js": "^1.16.1",
+    "primeicons": "^6.0.1",
+    "primeng": "17.18.10",
+    "rxjs": "~6.6.7",
+    "seedrandom": "^3.0.1",
+    "topojson-client": "^3.1.0",
+    "tslib": "^2.0.0",
+    "vega": "^5.25.0",
+    "vega-embed": "^6.22.1",
+    "vega-lite": "^5.13.0",
+    "zone.js": "~0.14.10"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^17.3.17",
+    "@angular/cli": "^17.3.17",
+    "@angular/compiler-cli": "^17.3.12",
+    "@angular/language-service": "^17.3.12",
+    "@types/bootstrap": "^4.3.1",
+    "@types/node": "^12.11.1",
+    "body-parser": "^1.19.1",
+    "ts-node": "~7.0.0",
+    "tslint": "~6.1.3",
+    "typescript": "~5.4.5"
+  },
+  "prettier": {
+    "printWidth": 120
+  },
+  "engines": {
+    "node": ">=18.13.0"
+  }
+}

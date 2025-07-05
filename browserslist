@@ -1,0 +1,13 @@
+# This file is currently used by autoprefixer to adjust CSS to support the below specified browsers
+# For additional information regarding the format and rule options, please see:
+# https://github.com/browserslist/browserslist#queries
+#
+# Modern browsers only - ES2015+ support required
+
+> 0.5%
+last 2 versions
+Firefox ESR
+not dead
+not IE 9-11
+not kaios 2.5
+not op_mini all

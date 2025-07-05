@@ -1,0 +1,14 @@
+::ng-deep .card-deck {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  grid-gap: 0;
+}
+::ng-deep .card-deck .card {
+  margin: 0;
+}
+::ng-deep .card-bg-light {
+  background: #efefef;
+}
+::ng-deep .card-borderless {
+  border: 0;
+} 

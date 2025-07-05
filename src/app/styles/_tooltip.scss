@@ -1,0 +1,20 @@
+::ng-deep .tooltip-label {    
+  border-bottom: 1px dotted #000;
+  text-decoration: none;
+  cursor: help;
+}
+::ng-deep div.tooltip {
+  position: absolute;
+  max-width: 250px;
+  padding: 8px;
+  font: 14px sans-serif;
+  background: white;
+  border: 1.5px solid #ccc;
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+// Vega-Lite Tooltip Z-index
+::ng-deep #vg-tooltip-element {
+  z-index: 2000;
+}

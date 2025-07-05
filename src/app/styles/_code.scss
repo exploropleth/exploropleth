@@ -1,0 +1,13 @@
+::ng-deep pre {
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+  }
+
+  // CodeMirror
+::ng-deep .CodeMirror {
+    border: 1px solid #eee;
+    width: 100%;
+  }

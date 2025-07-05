@@ -1,0 +1,47 @@
+::ng-deep .search-results-dropdown {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  width: 350px;
+  max-height: 200px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  z-index: 1000;
+  margin-top: 2px;
+}
+
+::ng-deep .search-results-list {
+  padding: 0;
+  margin: 0;
+}
+
+::ng-deep .search-result-item {
+  padding: 8px 12px;
+  cursor: pointer;
+  border-bottom: 1px solid #eee;
+  font-size: 14px;
+  line-height: 1.3;
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+::ng-deep .search-result-item:hover {
+  background-color: #f8f9fa;
+}
+
+::ng-deep .search-result-item:last-child {
+  border-bottom: none;
+}
+
+::ng-deep .search-result-item.no-result {
+  color: #6c757d;
+  cursor: default;
+  font-style: italic;
+}
+
+::ng-deep .search-result-item.no-result:hover {
+  background-color: transparent;
+} 

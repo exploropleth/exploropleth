@@ -1,0 +1,30 @@
+::ng-deep .h-full { height: calc(100vh) !important; }
+::ng-deep .h-full-usable { height: calc(100vh - 50px) !important; }
+::ng-deep .fullscreen {
+  width: calc(100%);
+  position: fixed;
+  height: calc(100%);
+  top: 0;
+  left: 0;
+  z-index: 100;
+}
+::ng-deep .colorSwatch {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  margin-right: 4px;
+  border: 1px solid black;
+}
+::ng-deep .selectedColorSwatch {
+  border: 3px solid black;
+}
+::ng-deep .hovered {
+  stroke-width: 2px !important;
+  stroke: black !important;
+}
+::ng-deep .geoshape.highlighted {
+  stroke: #dc3545 !important;
+  stroke-width: 4px !important;
+  stroke-opacity: 1 !important;
+  filter: drop-shadow(0 0 3px rgba(220, 53, 69, 0.5));
+}

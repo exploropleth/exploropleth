@@ -1,0 +1,85 @@
+// Margin utilities
+::ng-deep .m-xs { margin: 4px !important; }
+::ng-deep .m-sm { margin: 8px !important; }
+::ng-deep .m-md { margin: 16px !important; }
+::ng-deep .m-lg { margin: 24px !important; }
+::ng-deep .m-none { margin: 0 !important; }
+
+::ng-deep .mb-xs { margin-bottom: 4px !important; }
+::ng-deep .mb-sm { margin-bottom: 8px !important; }
+::ng-deep .mb-md { margin-bottom: 16px !important; }
+::ng-deep .mb-lg { margin-bottom: 24px !important; }
+
+::ng-deep .mt-xs { margin-top: 4px !important; }
+::ng-deep .mt-sm { margin-top: 8px !important; }
+::ng-deep .mt-md { margin-top: 16px !important; }
+::ng-deep .mt-lg { margin-top: 24px !important; }
+
+::ng-deep .ml-xs { margin-left: 4px !important; }
+::ng-deep .ml-sm { margin-left: 8px !important; }
+::ng-deep .ml-md { margin-left: 16px !important; }
+::ng-deep .ml-lg { margin-left: 24px !important; }
+
+::ng-deep .mr-xs { margin-right: 4px !important; }
+::ng-deep .mr-sm { margin-right: 8px !important; }
+::ng-deep .mr-md { margin-right: 16px !important; }
+::ng-deep .mr-lg { margin-right: 24px !important; }
+
+// Margin width (horizontal)
+::ng-deep .mw-xs { margin-left: 4px !important; margin-right: 4px !important; }
+::ng-deep .mw-sm { margin-left: 8px !important; margin-right: 8px !important; }
+::ng-deep .mw-md { margin-left: 16px !important; margin-right: 16px !important; }
+::ng-deep .mw-lg { margin-left: 24px !important; margin-right: 24px !important; }
+
+// Padding utilities
+::ng-deep .p-xs { padding: 4px !important; }
+::ng-deep .p-sm { padding: 8px !important; }
+::ng-deep .p-md { padding: 16px !important; }
+::ng-deep .p-lg { padding: 24px !important; }
+::ng-deep .p-none { padding: 0 !important; }
+
+::ng-deep .pt-xs { padding-top: 4px !important; }
+::ng-deep .pt-sm { padding-top: 8px !important; }
+::ng-deep .pt-md { padding-top: 16px !important; }
+::ng-deep .pt-lg { padding-top: 24px !important; }
+::ng-deep .pt-0  { padding-top: 0 !important; }
+
+::ng-deep .pb-xs { padding-bottom: 4px !important; }
+::ng-deep .pb-sm { padding-bottom: 8px !important; }
+::ng-deep .pb-md { padding-bottom: 16px !important; }
+::ng-deep .pb-lg { padding-bottom: 24px !important; }
+
+::ng-deep .pl-xs { padding-left: 4px !important; }
+::ng-deep .pl-sm { padding-left: 8px !important; }
+::ng-deep .pl-md { padding-left: 16px !important; }
+::ng-deep .pl-lg { padding-left: 24px !important; }
+
+::ng-deep .pr-xs { padding-right: 4px !important; }
+::ng-deep .pr-sm { padding-right: 8px !important; }
+::ng-deep .pr-md { padding-right: 16px !important; }
+::ng-deep .pr-lg { padding-right: 24px !important; }
+
+// Padding width (horizontal)
+::ng-deep .pw-xs { padding-left: 4px !important; padding-right: 4px !important; }
+::ng-deep .pw-sm { padding-left: 8px !important; padding-right: 8px !important; }
+::ng-deep .pw-md { padding-left: 16px !important; padding-right: 16px !important; }
+::ng-deep .pw-lg { padding-left: 24px !important; padding-right: 24px !important; }
+
+// Vertical spacing utilities
+::ng-deep .vspace-lg { margin-top: 24px !important; }
+::ng-deep .vspace-md { margin-top: 16px !important; }
+::ng-deep .vspace-sm { margin-top: 8px !important; }
+
+// Zero-value margin utilities
+::ng-deep .ml-none { margin-left: 0 !important; }
+::ng-deep .mr-none { margin-right: 0 !important; }
+::ng-deep .mt-none { margin-top: 0 !important; }
+::ng-deep .mb-none { margin-bottom: 0 !important; }
+::ng-deep .mw-none { margin-left: 0 !important; margin-right: 0 !important; }
+
+// Zero-value padding utilities
+::ng-deep .pl-none { padding-left: 0 !important; }
+::ng-deep .pr-none { padding-right: 0 !important; }
+::ng-deep .pt-none { padding-top: 0 !important; }
+::ng-deep .pb-none { padding-bottom: 0 !important; }
+::ng-deep .pw-none { padding-left: 0 !important; padding-right: 0 !important; } 

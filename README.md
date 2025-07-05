@@ -80,7 +80,7 @@ When creating choropleth maps, mapmakers often bin (i.e., group, classify) quant
 @article{narechania2025cartographersincubicles,
     title = {{Cartographers in Cubicles: How Training and Preferences of Mapmakers Interplay with Structures and Norms in Not-for-Profit Organizations}},
     shorttitle = {{Cartographers in Cubicles}},
-    author = {{Narechania}, Arpit and {Endert}, Alex and {Andris}, Clio},
+    author = {Narechania, Arpit and Endert, Alex and Andris, Clio},
     journal = {ACM CSCW},
     year = {2025},
     publisher = {ACM}

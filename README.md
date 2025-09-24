@@ -33,10 +33,13 @@ Exploropleth was created by
 
   ```bibTeX
   @article{narechania2025exploropleth,
-    author =	{Narechania, Arpit and Endert, Alex and Andris, Clio},
-    title =	{{Exploropleth: Exploratory Analysis of Data Binning Methods in Choropleth Maps}},
-    journal={{Cartography and Geographic Information Science}},
-    year={2025}
+    author = {Arpit Narechania and Alex Endert and Clio Andris},
+    title = {Exploropleth: exploratory analysis of data binning methods in choropleth maps},
+    journal = {Cartography and Geographic Information Science},
+    pages = {1--16},
+    year = {2025},
+    publisher = {Taylor \& Francis},
+    doi = {10.1080/15230406.2025.2543483}
   }
   ```
 

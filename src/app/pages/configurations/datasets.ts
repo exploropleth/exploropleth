@@ -56,7 +56,7 @@ let BASE_GEOGRAPHIES = {
             // GeoJSON/topoJSON and map settings for Indian states/UTs
             geoFile: "india-states-uts.json",
             mapProjection: "mercator",
-            mapCenter: [78.9629, 20.5937],
+            mapCenter: [78.9629, 21.9937],
             topoFeatureRootKey: "india-states-uts",
             topoPrimaryKey: "id"
         }

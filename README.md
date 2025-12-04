@@ -28,7 +28,8 @@ Exploropleth was created by
 - [Live Demo](https://exploropleth.github.io/exploropleth)
 - [Source Code (GitHub)](https://github.com/exploropleth/exploropleth)
 - [Poster (Awardee at CRIDC'23)](https://narechania.com/docs/posters/exploropleth_cridc_2023.pdf)
-- Journal Paper (CaGIS'2025)
+- [arXiv Preprint](https://arxiv.org/abs/2511.20655)
+- [CaGIS 2025 Journal Paper](https://www.tandfonline.com/doi/full/10.1080/15230406.2025.2543483)
 - Paper Citation
 
   ```bibTeX

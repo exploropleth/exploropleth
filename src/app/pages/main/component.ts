@@ -2016,12 +2016,14 @@ export class MainComponent implements OnInit {
     switch (context.visModel["dataset"]["mapProjection"]) {
       case "albersUsa":
         projection = d3.geoAlbersUsa()
-          .scale(1500)
+          .scale(1200)
           .translate([width / 2, height / 2]);
         break;
       case "mercator":
         projection = d3.geoMercator()
-          .center(context.visModel["dataset"]["mapCenter"]);
+          .center(context.visModel["dataset"]["mapCenter"])
+          .scale(1200)
+          .translate([width / 2, height / 2]);
         break;
       default:
         // Default to Mercator

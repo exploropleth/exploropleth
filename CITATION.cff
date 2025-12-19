@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Narechania"
+  given-names: "Arpit"
+  orcid: "https://orcid.org/0000-0001-6980-3686"
+title: "Exploropleth"
+doi: "10.1080/15230406.2025.2543483"
+date-released: 2025-07-25
+url: "https://github.com/arpitnarechania/exploropleth"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Narechania"
+    given-names: "Arpit"
+    orcid: "https://orcid.org/0000-0001-6980-3686"
+  - family-names: "Endert"
+    given-names: "Alex"
+    orcid: "https://orcid.org/0000-0002-6914-610X"
+  - family-names: "Andris"
+    given-names: "Clio"
+    orcid: "https://orcid.org/0000-0002-8559-5079"
+  doi: "10.1080/15230406.2025.2543483"
+  journal: "Cartography and Geographic Information Science"
+  month: 9
+  start: 1 # First page number
+  end: 16 # Last page number
+  title: "Exploropleth: exploratory analysis of data binning methods in choropleth maps"
+  year: 2025
